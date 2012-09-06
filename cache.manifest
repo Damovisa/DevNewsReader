@@ -1,5 +1,5 @@
 CACHE MANIFEST
-# v1.55
+# v1.56
 
 CACHE:
 index.html
@@ -17,7 +17,12 @@ img/icon-144.png
 img/icon-114.png
 img/icon-72.png
 img/icon-57.png
-img/apple-splash.png
+img/startup-tablet-retina-portrait.png
+img/startup-tablet-retina-landscape.png
+img/startup-tablet-portrait.png
+img/startup-tablet-portrait.png
+img/startup-retina.png
+img/startup.png
 
 NETWORK:
 http://api.ihackernews.com/page
